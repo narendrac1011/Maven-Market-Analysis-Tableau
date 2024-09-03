@@ -1,2 +1,2 @@
 # Maven-Market-Analysis-Tableau
-Led a comprehensive analysis of Maven Market's datasets, a multinational grocery chain, using Tableau
+I led a comprehensive analysis of ABC Market's datasets, a multinational grocery chain, using Tableau to extract actionable insights. I independently formulated and addressed strategic business questions, designing intuitive, interactive dashboards with features like sliders and clickable elements to enable seamless navigation for senior management. By applying advanced data visualization techniques and custom formulas, I enhanced the analytical depth of the dashboards, creating a compelling storyline that highlighted critical trends and insights across Canada, Mexico, and the United States, ultimately driving data-driven decision-making.
